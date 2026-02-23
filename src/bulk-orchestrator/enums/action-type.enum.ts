@@ -1,0 +1,5 @@
+export enum ActionType {
+    UPDATE_STATUS = 'UPDATE_STATUS',
+    DELETE = 'DELETE',
+    CONTACT_UPDATE_STATUS = 'CONTACT_UPDATE_STATUS',
+}

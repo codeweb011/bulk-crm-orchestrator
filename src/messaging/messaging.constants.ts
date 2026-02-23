@@ -1,0 +1,2 @@
+export const EVENT_PUBLISHER = 'EVENT_PUBLISHER';
+export const EVENT_CONSUMER = 'EVENT_CONSUMER';
